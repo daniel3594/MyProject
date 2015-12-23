@@ -1,0 +1,75 @@
+body {
+	background: #003366;
+}
+.topo ul {
+	list-style: none;
+	padding-left: 0px;
+	padding-right: 0px;
+	display: table;
+}
+.topo ul li {
+	display:table-cell;
+	display: inline;
+}
+.topo ul li a {
+	text-decoration: none;
+	background-color:#FF6600;
+}
+.esquerda {
+	margin-left: 25%;
+	width: 50%;
+	margin-right: 25%;
+	float: left;
+}
+.esquerda h1{
+	color: #FF6600;
+}
+.esquerda h3, p{
+	color: #ffffff;
+}
+.esquerda .perfil {
+	display: block;
+}
+.esquerda .perfil .img{
+	display: inline-block;
+}
+.esquerda .perfil .dados {
+	position: relative;
+	display: inline-block;
+}
+.esquerda .perfil .dados h1 {
+	margin: 0px;
+	font-size: 22px;
+	color: #ffffff;
+}
+.esquerda .perfil .dados p {
+	margin: 0px;
+	font-size: 14px;
+	color: #ffffff;
+}
+.esquerda .descricao {
+	display: block;
+}
+.esquerda .idiomas {
+	display: block;
+}
+.esquerda .idiomas .ling {
+	display: inline-block;
+	margin-right: 100px;
+}
+.esquerda ul {
+	padding: 0px;
+	list-style: none;
+}
+.esquerda .info .cursos ul li {
+	margin: 0px;
+	font-size: 14px;
+	color: #ffffff;
+	text-decoration: none;
+}
+.esquerda .info ul li {
+	margin: 0px;
+	font-size: 14px;
+	color: #ffffff;
+	text-decoration: none;
+}
